@@ -5,7 +5,7 @@ a = Analysis(
     ['Interface.py'],
     pathex=[],
     binaries=[],
-    datas=[('Logo_Novo.png', '.')],
+    datas=[('Funcoes.py', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
